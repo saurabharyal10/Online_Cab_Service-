@@ -1,0 +1,63 @@
+/* Resets */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Core classes */
+.container {
+    max-width: 1200px;
+    margin: auto;    
+}
+
+img {
+    width: 100%;
+
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+/* Utility classes */
+.btn-primary {
+    background: rgb(40, 127, 214);
+    padding: .5rem 3rem;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+
+}
+
+.btn-primary:hover {
+    background: dodgerblue;
+}
+
+/* main-cards-container */
+.main-cards-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 50px;
+    padding: 90px;
+}
+
+/* section: card */
+#card {
+    border: 1px solid #999;
+    
+}
+
+#card .text-container {
+    padding: 1rem 2rem;
+}
+
+#card > div > img {
+    height: 350px;
+}
+
+#card .text-container>a {
+    display: inline-block;
+    margin-top: 10px;    
+}

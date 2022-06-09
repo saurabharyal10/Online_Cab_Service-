@@ -1,0 +1,92 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
+}
+.topnav{
+  background-color: maroon;
+  color: white;
+  width: 101.1% !important;
+  height: 82px;
+}
+.topnav>h3{
+  margin-left: 100px;
+  text-transform: uppercase;
+  margin-top: 27px;
+  font-size: 34px;
+}
+ul{
+  background-color: maroon !important;
+    list-style-type: none;
+    position:sticky;
+    top:1px;
+}
+li{
+    float: left;
+    margin-left:46px;
+    margin-top: 12px;
+}
+a{
+   text-decoration:none;
+   font-size:17px;
+   color: white !important;
+   padding:1px 2px;
+   border-radius: 27px;
+ }
+a:hover{
+      background-color:lightgrey;
+      text-decoration: none !important;
+      color: black !important;
+}
+.hd{
+  font-size: 22px;
+  margin-top: 78px;
+  text-transform: uppercase;
+  color: maroon;
+  margin-left: 66px;
+}
+.submit_btn,.reset_btn{
+  height:40px;
+  width:110px;
+  border-radius: 5px 5px;
+}
+.submit_btn{
+  background-color: maroon;
+  color: white;
+  margin-left: 241px !important;
+  margin-top: 8px;
+  width: 150px;
+}
+.reset_btn{
+  background-color: black;
+  color: white;
+}
+.li{
+  margin-right:16%;
+}
+.form-field{
+  margin:10px;
+  margin-left: 23px;
+}
+.ad{
+  color: maroon;
+  font-size: 20px;
+  text-transform: uppercase;
+  margin-left: 80px;
+  margin-top: -92px;
+}
+.ad1{
+  border: 2px solid maroon;
+  border-radius: 3px;
+  margin-left: 80px;
+  margin-top: 18px;
+  height: 220px;
+  width: 272px;
+}
+.rowbar{
+  color:  black;
+  word-spacing: 2px;
+  margin-top: 25px;
+  font-size: 15px;
+  margin-left: -94px;
+}

@@ -1,0 +1,148 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
+}
+.topnav{
+  background-color: maroon;
+  color: white;
+  width: 101.1% !important;
+  height: 82px;
+/*  border: 5px solid white;*/
+}
+.topnav>h3{
+	margin-left: 100px;
+	text-transform: uppercase;
+	margin-top: 27px;
+	font-size: 34px;
+}
+ul{
+	background-color: maroon !important;
+    list-style-type: none;
+    position:sticky;
+    top:1px;
+    /*margin: 0px;
+    padding: 0px;
+    overflow: hidden;*/
+}
+li{
+    float: left;
+    margin-left:46px;
+    margin-top: 12px;
+/*    border: 5px solid white;*/
+}
+a{
+   text-decoration:none;
+   font-size:17px;
+   color:white;
+   padding:3px 3px;
+   border-radius: 27px;
+/*   display: block !important;*/
+}
+a:hover{
+      background-color:lightgrey;
+      text-decoration:none;
+      color: black;
+      /*display: block;*/
+}
+.container1{
+	    /*border: 5px solid white !important;*/
+}
+.slider-container{
+	position:relative;
+	display:block;
+	margin-top: -20px;
+}
+.slider-container>.slider{
+	position:absolute;
+	display:block;
+	height:600px;
+	width:100%;
+	top:0;
+	left:0;
+}
+.slider-container>.slider>img{
+	height:100%;
+	width:100%;
+}
+.slider-container>.slider>p{
+	position:absolute;
+	background-color:rgba(0,0,0,0.4);
+	right:20px;
+	bottom:30px;
+    padding:30px;
+	color:white;
+	font-size:20px;
+	min-width:400px;
+	text-transform:capitalized;
+}
+.slider-container>.slider>.next,.slider-container>.slider>.pre{
+	position:absolute;
+	background-color:rgba(0,0,0,0.3);
+	font-size:40px;
+	top:40%;
+	z-index:1;
+	color:white;
+	padding:20px 20px;
+	cursor:pointer;
+}
+.slider-container>.slider>.next:hover,.slider-container>.slider>.pre:hover{
+	/*background-color:green;*/
+}
+.slider-container>.slider>.next{
+	right:0;
+}
+.slider-container>.slider>.pre{
+    left:0;
+}
+.ad1{
+  border: 2px solid black;
+  border-radius: 7px;
+  margin-left: 60px;
+  margin-top: 18px;
+  height: 236px;
+  width: 264px;
+}
+.rowbar{
+	background-color: maroon;
+	color: white;
+	word-spacing: 2px;
+	margin-top: 625px;
+	font-size: 15px;
+}
+.ad{
+	margin-left: 102px;
+	margin-top: 42px;
+}
+.hd{
+	font-size: 25px;
+	margin-top: 42px;
+}
+.desc{
+	margin-top: 27px;
+}
+.ad2{
+	width: 264px;
+	margin-top: 72px;
+	margin-left: 64px;
+	height: 207px;
+	border-radius: 7px;
+	border: 2px solid black;
+}
+
+@media only screen and (max-width:800px) {
+	/* For tablets: */
+	.main {
+	  width: 80%;
+	  padding: 0;
+	}
+	.right {
+	  width: 100%;
+	}
+  }
+  @media only screen and (max-width:500px) {
+	/* For mobile phones: */
+	.menu, .main, .right {
+	  width: 100%;
+	}
+  }

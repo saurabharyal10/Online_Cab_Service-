@@ -70,40 +70,40 @@ The application uses 3 core tables:
 ![Home Page](./Online_cab/assets/screenshots/home.png)
 
 ### About Project
-![About Project](./assets/screenshots/about-project.png)
+![About Project](./Online_cab/assets/screenshots/about-project.png)
 
 ### Registration Form
-![Registration](./assets/screenshots/registration.png)
+![Registration](./Online_cab/assets/screenshots/registration.png)
 
 ### Login Page
-![Login](./assets/screenshots/login.png)
+![Login](./Online_cab/assets/screenshots/login.png)
 
 ### Admin — Feedback View
-![Admin Feedback](./assets/screenshots/admin-feedback.png)
+![Admin Feedback](./Online_cab/assets/screenshots/admin-feedback.png)
 
 ### Admin — Ride History
-![Admin Ride History](./assets/screenshots/admin-ride-history.png)
+![Admin Ride History](./Online_cab/assets/screenshots/admin-ride-history.png)
 
 ### Admin — User Details
-![Admin User Details](./assets/screenshots/admin-user-details.png)
+![Admin User Details](./Online_cab/assets/screenshots/admin-user-details.png)
 
 ### Admin — Driver Details
-![Admin Driver Details](./assets/screenshots/admin-driver-details.png)
+![Admin Driver Details](./Online_cab/assets/screenshots/admin-driver-details.png)
 
 ### Passenger Profile
-![Passenger Profile](./assets/screenshots/passenger-profile.png)
+![Passenger Profile](./Online_cab/assets/screenshots/passenger-profile.png)
 
 ### Passenger — Apply for Ride
-![Apply Ride](./assets/screenshots/apply-ride.png)
+![Apply Ride](./Online_cab/assets/screenshots/apply-ride.png)
 
 ### Passenger — Remaining Ride
-![Remaining Ride](./assets/screenshots/remaining-ride.png)
+![Remaining Ride](./Online_cab/assets/screenshots/remaining-ride.png)
 
 ### Driver Profile
-![Driver Profile](./assets/screenshots/driver-profile.png)
+![Driver Profile](./Online_cab/assets/screenshots/driver-profile.png)
 
 ### Driver — Incoming Ride Requests
-![Driver Ride Requests](./assets/screenshots/driver-ride-requests.png)
+![Driver Ride Requests](./Online_cab/assets/screenshots/driver-ride-requests.png)
 
 ---
 

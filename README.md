@@ -67,7 +67,7 @@ The application uses 3 core tables:
 ## Screenshots
 
 ### Home Page
-![Home Page](./assets/screenshots/home.png)
+![Home Page](./Online_cab/assets/screenshots/home.png)
 
 ### About Project
 ![About Project](./assets/screenshots/about-project.png)
